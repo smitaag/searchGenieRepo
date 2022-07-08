@@ -10,6 +10,9 @@
       "StackName": "amplify-searchgenie-dev-132705",
       "StackId": "arn:aws:cloudformation:us-east-1:138281345102:stack/amplify-searchgenie-dev-132705/91ba3530-fe93-11ec-b3cc-129422113287",
       "AmplifyAppId": "d1ypzzpzzix436"
+    },
+    "categories": {
+      "hosting": {}
     }
   }
 }
